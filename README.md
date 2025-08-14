@@ -39,10 +39,9 @@
 ---
 
 ## 📌 Featured Projects
-### 🗳 Voting Application
-> Spring Boot + Thymeleaf + MySQL  
-> Features: Poll creation, vote submission, live results display  
-[🔗 View Repository](https://github.com/Diplav-Kushwaha/voting-application)
+### 
+> Features:  
+[🔗 View Repository](https://github.com/)
 
 ---
 
